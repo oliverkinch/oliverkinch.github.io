@@ -2,7 +2,6 @@
 layout: post
 title: Generative models
 date: 2024-07-18
-edit: 2024-07-19
 description: ""
 tags: ""
 categories: ""

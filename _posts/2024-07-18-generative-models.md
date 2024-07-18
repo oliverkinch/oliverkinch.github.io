@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Generative models
-date: 2024-07-18
-last_updated: 2024-07-17
+date: 2024-07-17
+last_updated: 2024-07-18
 description: ""
 tags: ""
 categories: ""

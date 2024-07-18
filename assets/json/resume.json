@@ -36,13 +36,13 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Master of Science (MSc) in Human-Centered Artificial Intelligence ,Technical University of Denmark",
+      "institution": "Master of Science (MSc) in Human-Centered Artificial Intelligence, Technical University of Denmark",
       "location": "",
       "url": "https://www.dtu.dk/english/education/graduate/msc-programmes/human-centered-artificial-intelligence",
       "area": "",
       "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2021",
+      "endDate": "2024",
       "score": "",
       "courses": []
     },
@@ -52,8 +52,8 @@
       "url": "https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/bsc-eng-programmes/mathematics-and-technology",
       "area": "",
       "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2018",
+      "endDate": "2021",
       "score": "",
       "courses": []
     }

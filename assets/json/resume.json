@@ -36,9 +36,20 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Technical University of Denmark",
-      "location": "Lyngby, Denmark",
-      "url": "",
+      "institution": "Master of Science (MSc) in Human-Centered Artificial Intelligence ,Technical University of Denmark",
+      "location": "",
+      "url": "https://www.dtu.dk/english/education/graduate/msc-programmes/human-centered-artificial-intelligence",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bachelor of Science (BSc) in Mathematics and Technology, Technical University of Denmark",
+      "location": "",
+      "url": "https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/bsc-eng-programmes/mathematics-and-technology",
       "area": "",
       "studyType": "",
       "startDate": "",

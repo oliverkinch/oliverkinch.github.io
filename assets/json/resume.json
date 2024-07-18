@@ -70,18 +70,7 @@
     }
   ],
   "skills": [],
-  "languages": [
-    {
-      "language": "Danish",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []

@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /learn-with-me/
-title: Learn with me
+permalink: /blog/
+title: Blog
 nav: true
 nav_order: 1
 pagination:

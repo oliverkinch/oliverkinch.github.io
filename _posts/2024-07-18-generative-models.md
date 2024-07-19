@@ -12,6 +12,9 @@ related_posts: false
 
 # Flow-based models
 
+**Residual flows**
+- [The paper](https://arxiv.org/pdf/1906.02735)
+
 **Flow matching**
 
 - [Cambridge MLG blog about Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)

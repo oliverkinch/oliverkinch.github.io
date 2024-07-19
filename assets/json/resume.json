@@ -63,7 +63,7 @@
   "publications": [
     {
       "name": "DDisCo: A discourse coherence dataset for Danish",
-      "publisher": "Association for Computational Linguistics",
+      "publisher": "",
       "releaseDate": "2022-06",
       "url": "https://aclanthology.org/2022.lrec-1.260.pdf",
       "summary": ""

@@ -18,3 +18,4 @@ related_posts: false
 **Flow matching**
 
 - [Cambridge MLG blog about Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+- [Yannic Kilcher Paper Explained youtube](https://www.youtube.com/watch?v=7NNxK3CqaDk&t=256s&ab_channel=YannicKilcher)

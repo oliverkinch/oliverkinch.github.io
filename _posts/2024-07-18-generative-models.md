@@ -14,6 +14,6 @@ related_posts: false
 
 **Flow matching**
 
-- [Yaron Lipman explain (Youtube)](https://www.youtube.com/watch?v=5ZSwYogAxYg&t=4s&ab_channel=VantAI)
+- [Yaron Lipman lecture](https://www.youtube.com/watch?v=5ZSwYogAxYg&t=4s&ab_channel=VantAI)
 - [Cambridge MLG blog about Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-- [Yannic Kilcher Paper Explained (Youtube)](https://www.youtube.com/watch?v=7NNxK3CqaDk&t=256s&ab_channel=YannicKilcher)
+- [Yannic Kilcher Paper Explained](https://www.youtube.com/watch?v=7NNxK3CqaDk&t=256s&ab_channel=YannicKilcher)

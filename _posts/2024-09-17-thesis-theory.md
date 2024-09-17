@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relevant theory with respect to my thesis
+title: Relevant theory for my thesis
 date: 2024-09-17
 last_updated: 2024-09-17
 description: ""
